@@ -1,0 +1,5 @@
+name: MoneyAPI
+version: 1.0
+author: SkylTV
+main: de.skyl.coins.main.Main
+commands:
